@@ -6,3 +6,6 @@ Please do most work on other branches and leave the master branch relatively cle
 
 Merges should be --no-ff into master.
 
+Create a conflict this line
+should create a conflict with the next project
+that is checked in.
