@@ -9,3 +9,9 @@ Merges should be --no-ff into master.
 Create a conflict this line
 should create a conflict with the next project
 that is checked in.
+
+This is the second feature edit of this file.
+This should create a conflict with the previous
+additions to this file.
+
+This resolves the conflict.
