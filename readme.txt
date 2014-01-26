@@ -15,3 +15,7 @@ This should create a conflict with the previous
 additions to this file.
 
 This resolves the conflict.
+
+Wow this is in the completely wrong place and will cause a conflict.
+
+Resolved the conflict again.
